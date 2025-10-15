@@ -3,6 +3,7 @@ using UnityEngine;
 public class HullControls : MonoBehaviour
 {
     public float speed = 50.0f;
+    public float turnSpeed = 50.0f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
